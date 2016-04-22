@@ -2,7 +2,7 @@
 jquery.xml2json.js
 
 开发者：Micha Korecki, http://www.michalkorecki.com/。
-适用环境：用于Json对象转换为XML字符串。可以将一个json对象转换成XML字符串。
+适用环境：用于XML字符串转换为Json对象。可以将一个XML字符串转换成json对象。
 下载地址：
 
 http://json.cn/download/jquery.xml2json.js。
